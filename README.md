@@ -6,27 +6,36 @@ Fluxim is a revolutionary cryptocurrency designed to incentivize spending and ec
 
 ## Table of Contents
 
-1. FLUXIM: A Novel Approach to Cryptocurrency Distribution and Utilization
-   1. [Introduction](#introduction)
-   2. [Fluxim Distribution](#fluxim-distribution)
-   3. [Fluxim Dual-Coin System](#fluxim-dual-coin-system)
-      1. [Base Fluxim](#base-fluxim)
-2. [Fluxim Global Adoption Plan](#fluxim-global-adoption-plan)
-   1. [Satoshi's Public Reveal and Pledge to Fluxim](#satoshis-public-reveal-and-pledge-to-fluxim)
-   2. [Satoshi as the First Fluxim Guardian](#satoshi-as-the-first-fluxim-guardian)
-   3. [Selection of Subsequent Fluxim Guardians](#selection-of-subsequent-fluxim-guardians)
-   4. [The Distribution Wave](#the-distribution-wave)
-   5. [Establishing Economic Activity](#establishing-economic-activity)
-   6. [Global Proliferation](#global-proliferation)
-   7. [Conclusion of the Adoption Plan](#conclusion-of-the-adoption-plan)
-3. [Fluxim Governance Structure](#fluxim-governance-structure)
-   1. [Voting Power](#voting-power)
-   2. [Transfer of Voting Power](#transfer-of-voting-power)
-   3. [Monetary Policy](#monetary-policy)
-   4. [Stabilizing Business Cycles](#stabilizing-business-cycles)
-      1. [Counter-Cyclical Measures](#counter-cyclical-measures)
-      2. [Monetary Interventions](#monetary-interventions)
-   5. [Conclusion of the Governance Structure](#conclusion-of-the-governance-structure)
+# Table of Contents
+
+- [FLUXIM: A Novel Approach to Cryptocurrency Distribution and Utilization](#fluxim-a-novel-approach-to-cryptocurrency-distribution-and-utilization)
+  - [Introduction](#introduction)
+  - [Fluxim Distribution](#fluxim-distribution)
+  - [Fluxim Dual-Coin System](#fluxim-dual-coin-system)
+    - [Base Fluxim](#base-fluxim)
+    - [Extra Fluxim](#extra-fluxim)
+  - [Economic Stimulation](#economic-stimulation)
+  - [Transferability](#transferability)
+  - [Blockchain Infrastructure](#blockchain-infrastructure)
+  - [Conclusion](#conclusion)
+- [The Fluxim Global Adoption Plan](#the-fluxim-global-adoption-plan)
+  - [1. Introduction](#1-introduction)
+  - [2. Satoshi's Public Reveal and Pledge to Fluxim](#2-satoshis-public-reveal-and-pledge-to-fluxim)
+  - [3. Satoshi as the First Fluxim Guardian](#3-satoshi-as-the-first-fluxim-guardian)
+  - [4. Selection of Subsequent Fluxim Guardians](#4-selection-of-subsequent-fluxim-guardians)
+  - [5. The Distribution Wave](#5-the-distribution-wave)
+  - [6. Establishing Economic Activity](#6-establishing-economic-activity)
+  - [7. Global Proliferation](#7-global-proliferation)
+  - [8. Conclusion](#8-conclusion)
+- [Fluxim Governance Structure](#fluxim-governance-structure)
+  - [1. Voting Power](#1-voting-power)
+  - [2. Transfer of Voting Power](#2-transfer-of-voting-power)
+  - [3. Monetary Policy](#3-monetary-policy)
+  - [4. Stabilizing Business Cycles](#4-stabilizing-business-cycles)
+    - [4.1 Counter-Cyclical Measures](#41-counter-cyclical-measures)
+    - [4.2 Monetary Interventions](#42-monetary-interventions)
+  - [5. Conclusion](#5-conclusion)
+
 
 
 # FLUXIM: A Novel Approach to Cryptocurrency Distribution and Utilization
