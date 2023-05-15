@@ -8,7 +8,7 @@ Fluxim is a revolutionary cryptocurrency designed to incentivize spending and ec
 
 1. [Cryptocurrency Whitepaper for Fluxim](#cryptocurrency-whitepaper-for-fluxim)
    1. [Introduction](#introduction)
-   2. [Fluxim Network](#fluxim-network)
+   2. [Fluxim Distribution](#fluxim-distribution)
    3. [Fluxim Coin Distribution](#fluxim-coin-distribution)
    4. [Fluxim Coin Mechanics](#fluxim-coin-mechanics)
    5. [Fluxim Base and Extra Coins](#fluxim-base-and-extra-coins)
