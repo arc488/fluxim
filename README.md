@@ -1,4 +1,4 @@
-# FLUXIM: A Novel Approach to Cryptocurrency Distribution and Utilization
+
 
 ## Abstract
 
@@ -6,14 +6,9 @@ Fluxim is a revolutionary cryptocurrency designed to incentivize spending and ec
 
 ## Table of Contents
 
-1. [Cryptocurrency Whitepaper for Fluxim](#cryptocurrency-whitepaper-for-fluxim)
+1. [Cryptocurrency Whitepaper for Fluxim](#FLUXIM: A Novel Approach to Cryptocurrency Distribution and Utilization)
    1. [Introduction](#introduction)
    2. [Fluxim Distribution](#fluxim-distribution)
-   3. [Fluxim Coin Distribution](#fluxim-coin-distribution)
-   4. [Fluxim Coin Mechanics](#fluxim-coin-mechanics)
-   5. [Fluxim Base and Extra Coins](#fluxim-base-and-extra-coins)
-   6. [Blockchain Technology](#blockchain-technology)
-   7. [Conclusion of Cryptocurrency Whitepaper for Fluxim](#conclusion-of-cryptocurrency-whitepaper-for-fluxim)
 2. [Fluxim Global Adoption Plan](#fluxim-global-adoption-plan)
    1. [Satoshi's Public Reveal and Pledge to Fluxim](#satoshis-public-reveal-and-pledge-to-fluxim)
    2. [Satoshi as the First Fluxim Guardian](#satoshi-as-the-first-fluxim-guardian)
@@ -30,6 +25,9 @@ Fluxim is a revolutionary cryptocurrency designed to incentivize spending and ec
       1. [Counter-Cyclical Measures](#counter-cyclical-measures)
       2. [Monetary Interventions](#monetary-interventions)
    5. [Conclusion of the Governance Structure](#conclusion-of-the-governance-structure)
+
+
+# FLUXIM: A Novel Approach to Cryptocurrency Distribution and Utilization
 
 ## Introduction
 
